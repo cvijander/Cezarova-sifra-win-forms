@@ -1,0 +1,17 @@
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Cezarova sifra\Cezarova sifra\bin\Debug\net6.0-windows\Cezarova sifra.exe
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Cezarova sifra\Cezarova sifra\bin\Debug\net6.0-windows\Cezarova sifra.deps.json
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Cezarova sifra\Cezarova sifra\bin\Debug\net6.0-windows\Cezarova sifra.runtimeconfig.json
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Cezarova sifra\Cezarova sifra\bin\Debug\net6.0-windows\Cezarova sifra.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Cezarova sifra\Cezarova sifra\bin\Debug\net6.0-windows\Cezarova sifra.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Cezarova sifra\Cezarova sifra\obj\Debug\net6.0-windows\Cezarova sifra.csproj.AssemblyReference.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Cezarova sifra\Cezarova sifra\obj\Debug\net6.0-windows\Cezarova_sifra.Form1.resources
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Cezarova sifra\Cezarova sifra\obj\Debug\net6.0-windows\Cezarova sifra.csproj.GenerateResource.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Cezarova sifra\Cezarova sifra\obj\Debug\net6.0-windows\Cezarova sifra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Cezarova sifra\Cezarova sifra\obj\Debug\net6.0-windows\Cezarova sifra.AssemblyInfoInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Cezarova sifra\Cezarova sifra\obj\Debug\net6.0-windows\Cezarova sifra.AssemblyInfo.cs
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Cezarova sifra\Cezarova sifra\obj\Debug\net6.0-windows\Cezarova sifra.csproj.CoreCompileInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Cezarova sifra\Cezarova sifra\obj\Debug\net6.0-windows\Cezarova sifra.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Cezarova sifra\Cezarova sifra\obj\Debug\net6.0-windows\refint\Cezarova sifra.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Cezarova sifra\Cezarova sifra\obj\Debug\net6.0-windows\Cezarova sifra.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Cezarova sifra\Cezarova sifra\obj\Debug\net6.0-windows\Cezarova sifra.genruntimeconfig.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Cezarova sifra\Cezarova sifra\obj\Debug\net6.0-windows\ref\Cezarova sifra.dll
